@@ -1,4 +1,4 @@
-# 🧠 RAG + LangChain Learning Repository
+# 🧠 RAG Advance Project learning
 
 This repository is a **personal RAG (Retrieval-Augmented Generation) playground** where I experiment with and build projects using **LangChain**, vector databases, and different retrieval + generation strategies.
 
