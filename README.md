@@ -1,4 +1,4 @@
-# 🧠 RAG + LangChain Learning Repository
+# 🧠 RAG Advance Project learning
 
 This repository is a **personal RAG (Retrieval-Augmented Generation) playground** where I experiment with and build projects using **LangChain**, vector databases, and different retrieval + generation strategies.
 
@@ -8,7 +8,7 @@ The goal of this repo is to learn RAG deeply by implementing real working exampl
 - local/offline RAG pipelines using Ollama
 - chatbot-style retrieval systems
 - LangChain chains and tool-based workflows
-
+bn
 This is a growing collection of experiments, notebooks, and mini-projects focused on building practical RAG systems.
 
 ---
